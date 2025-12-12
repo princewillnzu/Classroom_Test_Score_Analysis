@@ -1,4 +1,6 @@
-# Classroom Test Score Analysis
+# Classroom Test Score Analysis  
+![Dashboard Preview](./Dashboard.png)
+
 
 This project examines the academic performance of students based on demographic and socio-economic factors. Using **Microsoft Excel**, I analyzed test scores in **Math**, **Reading**, and **Writing** to identify patterns and insights. The analysis was supported with Excel **sliders**, **graphs**, and various data visualization tools.
 
